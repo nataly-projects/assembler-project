@@ -1,0 +1,17 @@
+Error In errors_input2:14: The symbol EXTERNLABEL can be either external or entry, but not both.
+Error In errors_input2:16: The symbol MYSTRINGS not found
+Error In errors_input2:17: The symbol MYSTRIN not found
+Error In errors_input2:18: The symbol YSTRING not found
+Error In errors_input2:19: The symbol MYSTRING123 not found
+Error In errors_input2:20: The symbol MYSTRING0 not found
+Error In errors_input2:22: The symbol XX not found
+Error In errors_input2:23: The symbol Y not found
+Error In errors_input2:24: The symbol X0 not found
+Error In errors_input2:27: The symbol SOMEUNKNOWNLABEL for .entry is undefined.
+Error In errors_input2:30: The symbol MYDATA0 for .entry is undefined.
+Error In errors_input2:31: The symbol 0MYDATA for .entry is undefined.
+Error In errors_input2:32: The symbol 0MYSTRING for .entry is undefined.
+Error In errors_input2:33: The symbol 0 for .entry is undefined.
+Error In errors_input2:34: The symbol NULL for .entry is undefined.
+Error In errors_input2:39: The symbol EMPTYLABEL not found
+Error In errors_input2:41: The symbol LONGLONGLONGLONGLONGLONGLONGLONGLABEL1234 for .entry is undefined.

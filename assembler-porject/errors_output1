@@ -1,0 +1,67 @@
+Error In errors_input1:7: Symbol LABEL is already defined.
+Error In errors_input1:8: Symbol CODELABEL is already defined.
+Error In errors_input1:12: Invalid external label name: LONGLONGLONGLONGLONGLONGLONGLONGLABEL
+Error In errors_input1:13: Invalid external label name: 1nvalidLabel
+Error In errors_input1:14: Invalid external label name: Label@With4t
+Error In errors_input1:15: Invalid external label name: 
+Error In errors_input1:16: Invalid instruction name: .add
+Error In errors_input1:17: Symbol WHATEVEREXT is already defined.
+Error In errors_input1:18: Invalid label name - cannot be longer than 32 chars, may only start with letter be alphanumeric.
+Error In errors_input1:19: Invalid label name - cannot be longer than 32 chars, may only start with letter be alphanumeric.
+Error In errors_input1:20: Invalid label name - cannot be longer than 32 chars, may only start with letter be alphanumeric.
+Error In errors_input1:21: Invalid label name - cannot be longer than 32 chars, may only start with letter be alphanumeric.
+Error In errors_input1:23: Missing closing quote of string
+Error In errors_input1:24: Missing opening quote of string
+Error In errors_input1:25: Missing opening quote of string
+Error In errors_input1:26: Unexpected comma after data instruction
+Error In errors_input1:27: Multiple consecutive commas.
+Error In errors_input1:28: Multiple consecutive commas.
+Error In errors_input1:29: Missing data after comma
+Error In errors_input1:30: Missing comma.
+Error In errors_input1:31: Missing comma.
+Error In errors_input1:32: Missing comma.
+Error In errors_input1:33: Expected integer for .data instruction, got '0.5'
+Error In errors_input1:34: Expected integer for .data instruction, got '5.9'
+Error In errors_input1:35: Expected integer for .data instruction, got '-0.1'
+Error In errors_input1:36: Expected integer for .data instruction, got '.5'
+Error In errors_input1:39: Operation requires 3 operands, got 2
+Error In errors_input1:40: Operation requires 2 operands, got 0
+Error In errors_input1:41: Operation requires 2 operands, got 1
+Error In errors_input1:42: Operation requires 2 operands, got 3
+Error In errors_input1:43: Operation requires 3 operands, got 0
+Error In errors_input1:44: Operation requires 3 operands, got 1
+Error In errors_input1:45: Operation requires 3 operands, got 0
+Error In errors_input1:46: Operation requires 3 operands, got 1
+Error In errors_input1:47: Operation requires 1 operand, got 0
+Error In errors_input1:48: Operation requires 1 operand, got 2
+Error In errors_input1:49: Operation requires no operands, got 1
+Error In errors_input1:50: Operation requires no operands, got 2
+Error In errors_input1:52: Invalid operand type for first operand.
+Error In errors_input1:53: Invalid operand type for third operand.
+Error In errors_input1:54: Invalid operand type for first operand.
+Error In errors_input1:55: Invalid operand type for second operand.
+Error In errors_input1:56: Invalid operand type for second operand.
+Error In errors_input1:57: Invalid operand type for first operand.
+Error In errors_input1:58: Invalid operand type for first operand.
+Error In errors_input1:59: Invalid operand type for first operand.
+Error In errors_input1:60: Invalid operand type for first operand.
+Error In errors_input1:61: Invalid operand type for second operand.
+Error In errors_input1:62: Invalid operand type for first operand.
+Error In errors_input1:64: The value is out of range for this instruction
+Error In errors_input1:65: The value is out of range for this instruction
+Error In errors_input1:66: The value is out of range for this instruction
+Error In errors_input1:67: The value is out of range for this instruction
+Error In errors_input1:68: The value is out of range for this instruction
+Error In errors_input1:70: The value is out of range for this instruction
+Error In errors_input1:71: The value is out of range for this instruction
+Error In errors_input1:74: Invalid operand type for first operand.
+Error In errors_input1:75: Invalid external label name: REALLYREALLYREALLYREALLYREALLYREALLYLONG
+Error In errors_input1:76: Unrecognized command: op.
+Error In errors_input1:77: Invalid label name - cannot be longer than 32 chars, may only start with letter be alphanumeric.
+Error In errors_input1:78: Invalid label name - cannot be longer than 32 chars, may only start with letter be alphanumeric.
+Error In errors_input1:80: Expected integer for .data instruction, got '"Hello'
+Error In errors_input1:81: Unrecognized command: label.
+Error In errors_input1:84: Invalid label name - cannot be longer than 32 chars, may only start with letter be alphanumeric.
+Error In errors_input1:85: Invalid label name - cannot be longer than 32 chars, may only start with letter be alphanumeric.
+Error In errors_input1:87: Line too long to process. Maximum line length should be 80.
+Error In errors_input1:88: Invalid external label name: HELLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLOO
